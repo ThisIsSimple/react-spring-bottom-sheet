@@ -46,7 +46,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ThisIsSimple/react-spring-bottom-sheet](https://github.com/ThisIsSimple/react-spring-bottom-sheet)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|43<br/>Tools used|11/30/23 <br/>Report generated|
+|46<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -215,9 +215,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (25)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (28)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (25)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (28)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -237,6 +237,8 @@ Full tech stack [here](/techstack.md)
 |[eslint-plugin-jsx-a11y](https://www.npmjs.com/eslint-plugin-jsx-a11y)|v6.5.1|12/05/20|Cody Olsen |MIT|N/A|
 |[eslint-plugin-react](https://www.npmjs.com/eslint-plugin-react)|v7.28.0|06/01/22|Cody Olsen |MIT|N/A|
 |[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|v4.3.0|06/01/22|Cody Olsen |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v6.0.0|03/30/21|renovate[bot] |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v10.5.4|12/05/20|Cody Olsen |MIT|N/A|
 |[microbundle](https://www.npmjs.com/microbundle)|v0.14.2|11/01/21|Renovate Bot |MIT|N/A|
 |[postcss](https://www.npmjs.com/postcss)|v7.0.39|12/08/20|Cody Olsen |MIT|[CVE-2023-44270](https://github.com/advisories/GHSA-7fh5-64p2-3v2j) (Moderate)|
 |[postcss-cli](https://www.npmjs.com/postcss-cli)|v8.3.1|12/08/20|Cody Olsen |MIT|N/A|
@@ -244,6 +246,7 @@ Full tech stack [here](/techstack.md)
 |[react-dom](https://www.npmjs.com/react-dom)|v17.0.2|06/01/22|Cody Olsen |MIT|N/A|
 |[react-spring](https://www.npmjs.com/react-spring)|v8.0.27|06/01/22|Cody Olsen |MIT|N/A|
 |[rimraf](https://www.npmjs.com/rimraf)|v3.0.2|11/30/20|Cody Olsen |ISC|N/A|
+|[semantic-release](https://www.npmjs.com/semantic-release)|v17.4.7|12/04/20|Cody Olsen |MIT|[CVE-2022-31051](https://github.com/advisories/GHSA-x2pg-mjhr-2m5x) (Moderate)|
 |[svgo](https://www.npmjs.com/svgo)|v2.8.0|11/30/20|Cody Olsen |MIT|N/A|
 |[tailwindcss](https://www.npmjs.com/tailwindcss)|v2.2.19|01/01/22|Renovate Bot |MIT|N/A|
 
