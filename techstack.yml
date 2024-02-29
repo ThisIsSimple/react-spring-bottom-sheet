@@ -2,7 +2,7 @@ repo_name: ThisIsSimple/react-spring-bottom-sheet
 report_id: 9811238df6829763921ab33aa1e6de14
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:30:00+00:00'
+timestamp: '2024-02-29T18:57:21+00:00'
 requested_by: semantic-release-bot
 provider: github
 branch: main
@@ -53,7 +53,7 @@ tools:
   last_updated_by: Cody Olsen
   last_updated_on: 2020-12-04 21:25:25.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 10.2.3
   open_source: true
@@ -155,7 +155,7 @@ tools:
   last_updated_by: renovate[bot]
   last_updated_on: 2020-12-19 18:04:30.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.5.1
   license: MIT
